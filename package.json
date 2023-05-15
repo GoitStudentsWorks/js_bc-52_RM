@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/RM/",
+    "build": "vite build --base=/js_bc-52_RM/",
     "preview": "vite preview"
   },
   "devDependencies": {
